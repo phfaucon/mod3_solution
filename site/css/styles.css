@@ -27,7 +27,7 @@
 	}
 	
 	#collapsable-nav {
-		background-color: #BBEABB;
+		background-color: #f0f0f0;
 	}
 	
 	#nav-list {		
@@ -37,12 +37,12 @@
 	
 	#nav-list li{
 		text-align: center;
-		border: 1px solid #559955;
+		border: 1px solid #f4f4f4;
 		margin-bottom:-1px;
 	}
 	#nav-list li:hover{
 		font-weight: bold;
-		background-color: #BBDDBB;
+		background-color: #BBbbBB;
 	}
 }
 .navbar {
@@ -67,8 +67,6 @@ h1 {
 	font-size: 175%;
 }
 h2 {
-/* we could have used absolute positioning however I prefer the look with floating and removing
-	top and right borders */
 	font-size: 125%;
 	text-align: center;
 }
